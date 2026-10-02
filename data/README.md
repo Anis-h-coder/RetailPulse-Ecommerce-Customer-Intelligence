@@ -449,4 +449,5 @@ The following files are intentionally excluded from the public repository:
 ```text
 Online Retail.xlsx
 retail_clean.csv
+customer_rfm.csv
 ```
