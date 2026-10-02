@@ -607,5 +607,3 @@ B.Tech — Artificial Intelligence & Data Science
 If you find this project useful, feel free to explore the notebooks, analytical workflow, and Power BI dashboard.
 
 ````
-
-Otherwise GitHub will show broken images.
