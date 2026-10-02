@@ -466,26 +466,6 @@ Provides deeper product, market, and customer ordering behavior analysis.
 
 ---
 
-# 🖼️ Dashboard Preview
-
-### Executive Overview
-
-![Executive Overview](powerbi/screenshots/executive-overview.png)
-
-### Customer Intelligence
-
-![Customer Intelligence](powerbi/screenshots/customer-intelligence.png)
-
-### Repurchase Intelligence
-
-![Repurchase Intelligence](powerbi/screenshots/repurchase-intelligence.png)
-
-### Product & Geography
-
-![Product & Geography](powerbi/screenshots/product-geography.png)
-
----
-
 # 🛠️ Tech Stack
 
 ## Programming & Analysis
