@@ -1,17 +1,8 @@
-Yes ❤️ I understand. You want the **main `README.md` also in the same clean, complete Markdown format**—not the shortened version.
-
-Your content is already good; I'll keep your structure and terminology, while formatting it properly as a GitHub README. I’ll also include the **4th dashboard page details** and keep the claims aligned with your project.
-
-Copy everything below directly into your **root `README.md`**:
-
-````markdown
 # RetailPulse – E-Commerce Customer Intelligence
 
 An end-to-end e-commerce analytics and customer intelligence project built using **Python, Machine Learning, RFM Analysis, and Power BI**.
 
 RetailPulse transforms transactional retail data into business insights by combining data cleaning, exploratory analysis, customer segmentation, repurchase prediction, revenue-at-risk analysis, and interactive business intelligence dashboards.
-
----
 
 ## 📌 Project Overview
 
